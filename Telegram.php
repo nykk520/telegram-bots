@@ -28,7 +28,7 @@ class Telegram extends Base
 
     public function __construct()
     {
-        $this->telegram = new Api('6299876389:AAF8QSEztrGOUZ5WDvhNjyyLiOd_dKyUt0E');
+        $this->telegram = new Api('6299876389:kjkj');
     }
 
 
